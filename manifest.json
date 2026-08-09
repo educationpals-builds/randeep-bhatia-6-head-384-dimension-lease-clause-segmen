@@ -1,0 +1,53 @@
+{
+  "compiledAt": "2026-08-09T06:36:25.792Z",
+  "variants": [
+    {
+      "id": "README.md",
+      "path": "README.md"
+    },
+    {
+      "id": "charter.md",
+      "path": "charter.md"
+    },
+    {
+      "id": "blueprints/head-map-interrogator.md",
+      "path": "blueprints/head-map-interrogator.md"
+    },
+    {
+      "id": "prompts/split-walk-pack.md",
+      "path": "prompts/split-walk-pack.md"
+    },
+    {
+      "id": "METHOD.md",
+      "path": "METHOD.md"
+    },
+    {
+      "id": "VERIFY.md",
+      "path": "VERIFY.md"
+    },
+    {
+      "id": ".ep/provenance.json",
+      "path": ".ep/provenance.json.md"
+    },
+    {
+      "id": "specs/head-audit.spec.json",
+      "path": "specs/head-audit.spec.json.md"
+    },
+    {
+      "id": "specs/measurements.md",
+      "path": "specs/measurements.md"
+    },
+    {
+      "id": "analyzer/head-map-analyzer.md",
+      "path": "analyzer/head-map-analyzer.md"
+    },
+    {
+      "id": "skills/head-split-advisor.skill.md",
+      "path": "skills/head-split-advisor.skill.md"
+    },
+    {
+      "id": "exports/sample-asks.md",
+      "path": "exports/sample-asks.md"
+    }
+  ]
+}
